@@ -1,0 +1,7 @@
+Taked from Warframe steam version.
+
+name - sha256 - size
+oo2core_9_win64.dll - 19452ae1abae65e1305d3818354d4fae7b1200294322f0d9c6d5ddeb7bd9f978 - 582656 byte (569 KiB)
+oo2net_9_win64.dll - 396b14e36579b00e0553df6c8f49ec1c2b9c974c7613a9a080466cdc3b4a562c - 96256 byte (94 KiB)
+
+rename oo2core_9_win64.dll to oo2core_8_win64.dll and put in root folder (oo2net_9_win64.dll is not needed).
